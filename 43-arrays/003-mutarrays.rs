@@ -1,0 +1,5 @@
+fn main() {
+    let mut a = [1,2,3];
+    a[0] = 10;
+    println!("{:?}", a);
+}
