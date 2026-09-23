@@ -15,4 +15,5 @@ fn main() {
     let result = hasher.finish();
     
     // your code here
+    println!("{:?}", result);
 }
